@@ -1,4 +1,4 @@
-# PCA Decomposition on UK yield curve
+# PCA Decomposition on the UK yield curve
 
 Principal Components aims to reduce the dimensionality of a dataset; by finding the least amount of variables that explain the largest proportion of the data. It does this by transforming the data from a correlation matrix (more commonly used on financial data than a covariance matrix), onto a subspace with less dimensions, where all explanatory variables are orthogonal (perpendicular) to each other, i.e there is no multicollinearity. These are <b>statistical properties</b> and do not necesarrily have an economic interpretation.
 
